@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="timechecker",
-    version="0.0.5",
+    name="timechecker1",
+    version="1.0.5",
     author="Saksham Gupta",
     author_email="sakshamgupta026@gmail.com",
     description="An aplication that informs you of the time in different locations and timezones",
